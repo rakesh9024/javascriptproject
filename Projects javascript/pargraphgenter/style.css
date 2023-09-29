@@ -1,0 +1,32 @@
+#main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #f1f5f8;
+}
+.row{
+    justify-self: center;
+    display: flex;
+    font-size: 25px;
+    padding: 30px;
+}
+button{
+    color: #ffffff;
+    background-color: #49a6e9;
+    font-size: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+}
+input{
+    height: 25px;
+    width: 50px;
+    font-size: 20px;
+    font: bold;
+    border-radius: 5px;
+
+}
+.row div{
+    padding: 10px;
+}
